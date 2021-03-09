@@ -1,5 +1,4 @@
-from data.db import Db
-
+from data.db import Db # 把data資料夾中的db.py讀取出class Db
 
 class Mix:
 	def __init__(self):
